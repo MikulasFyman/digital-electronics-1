@@ -1,4 +1,4 @@
-# Lab 1: YOUR_FIRSTNAME LASTNAME
+# Lab 1: Mikuláš Fyman
 
 ### De Morgan's laws
 
