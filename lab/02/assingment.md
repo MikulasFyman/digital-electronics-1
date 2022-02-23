@@ -2,9 +2,6 @@
 
 ### 2-bit comparator
 
-
-
-# 1)
 ## ***Karnaugh maps for other two functions:***
 
 ### *The K-map for the "graeter than" function*
