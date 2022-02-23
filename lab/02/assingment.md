@@ -14,8 +14,8 @@
 |           | ***1 0***   | **1**        | **1**            | 0         | 0     |
 
 #### Simplified SoP form of the "greater than" function : 
-#### GreaterSoP = B1./A1 + /A1./A0.B0 + /A0.B1.B0 
-##### '/' -> negation 
+#### GreaterSoP = B1 * notA1 + notA1 * notA0 * B0 + notA0 * B1 * B0
+ 
 
 
 ### *The K-map for the "less than" function*
@@ -28,8 +28,8 @@
 |           | ***1 0***   | **0**       | **0**            | 1         | **0**     |
 
 #### Simplified PoS form of the "less than" function : 
-#### LessPoS = (A1+A0).(/B1+/B2).(A1+/B1).(A1+/B0).(A0+/B1)
-##### '/' -> negation 
+#### LessPoS = (A1 + A0) * (notB1 + notB0) * (A1 + notB1) * (A1 + notB0) * (A0 + notB1)
+
 
 ### 4-bit comparator
 
