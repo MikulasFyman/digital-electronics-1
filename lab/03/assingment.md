@@ -3,7 +3,7 @@
 ### Three-bit wide 4-to-1 multiplexer
 
 1. Listing of VHDL architecture from source file `mux_3bit_4to1.vhd`. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
-
+```vhdl
 architecture Behavioral of mux_3bit_4to1 is
 begin
   with sel_i select
@@ -13,7 +13,7 @@ begin
            d_i when others; -- All other combinations
 
     -- WRITE "EQUALS" AND "LESS" ASSIGNMENTS HERE
-
+```
 
 end architecture Behavioral;
 
