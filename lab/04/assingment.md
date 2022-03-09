@@ -89,6 +89,8 @@
 ```
 
 2. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
+<img width="968" alt="image" src="https://user-images.githubusercontent.com/99393884/157462772-fe71cf78-edfe-48b2-96b2-5ae95ef46ead.png">
+
 
    
 
