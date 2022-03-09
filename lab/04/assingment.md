@@ -1,4 +1,4 @@
-# Lab 4: JAN GROSS 230067
+# Lab 4: Mikuláš Fyman
 
 ### Seven-segment display decoder
 
