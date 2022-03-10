@@ -13,10 +13,10 @@
 
    | **clk** | **d** | **q(n)** | **q(n+1)** | **Comments** |
    | :-: | :-: | :-: | :-: | :-- |
-   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645652-80eef191-5e71-4b36-918c-a22baa4814d3.png">) | 0 | 0 | 0 | d = q(n+1) |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645652-80eef191-5e71-4b36-918c-a22baa4814d3.png"> | 0 | 0 | 0 | d = q(n+1) |
    | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645665-fca57b9c-720c-489d-9ed3-35df90db49c7.png"> | 0 | 1 | 0 | d = q(n+1) |
    | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645678-b30d16ae-17e2-4b26-b5ff-444d881b84a1.png"> | 1 | 0 | 1 | d = q(n+1) |
-   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645693-c64194e2-b4d4-45d4-8628-68deda6945be.png">) | 1 | 1 | 1 | d = q(n+1) |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645693-c64194e2-b4d4-45d4-8628-68deda6945be.png"> | 1 | 1 | 1 | d = q(n+1) |
 
    | **clk** | **j** | **k** | **q(n)** | **q(n+1)** | **Comments** |
    | :-: | :-: | :-: | :-: | :-: | :-- |
@@ -34,7 +34,7 @@
    | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645869-d9a741cf-a59f-494d-8ed0-41fc9933d372.png"> | 0 | 0 | 0 | No change |
    | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645893-be205991-048e-453f-a971-5ef8ca0a1b37.png"> | 0 | 1 | 1 | No change |
    | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645904-d651e3ce-ea5b-440d-a101-8c0ddaaf7d3d.png"> | 1 | 0 | 1 | Toggle |
-   | ![Uploading image.png…]() | 1 | 1 | 0 | Toggle |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157646096-c414e100-e295-468e-a060-2352174d85d4.png"> | 1 | 1 | 0 | Toggle |
 
 <!--
 Dokreslit průběhy pro D-latch a D-type FF.
