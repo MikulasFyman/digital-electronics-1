@@ -13,28 +13,28 @@
 
    | **clk** | **d** | **q(n)** | **q(n+1)** | **Comments** |
    | :-: | :-: | :-: | :-: | :-- |
-   | ![rising](images/eq_uparrow.png) | 0 | 0 | 0 | d = q(n+1) |
-   | ![rising](images/eq_uparrow.png) | 0 | 1 | 0 | d = q(n+1) |
-   | ![rising](images/eq_uparrow.png) | 1 | 0 | 1 | d = q(n+1) |
-   | ![rising](images/eq_uparrow.png) | 1 | 1 | 1 | d = q(n+1) |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645652-80eef191-5e71-4b36-918c-a22baa4814d3.png">) | 0 | 0 | 0 | d = q(n+1) |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645665-fca57b9c-720c-489d-9ed3-35df90db49c7.png"> | 0 | 1 | 0 | d = q(n+1) |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645678-b30d16ae-17e2-4b26-b5ff-444d881b84a1.png"> | 1 | 0 | 1 | d = q(n+1) |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645693-c64194e2-b4d4-45d4-8628-68deda6945be.png">) | 1 | 1 | 1 | d = q(n+1) |
 
    | **clk** | **j** | **k** | **q(n)** | **q(n+1)** | **Comments** |
    | :-: | :-: | :-: | :-: | :-: | :-- |
-   | ![rising](images/eq_uparrow.png) | 0 | 0 | 0 | 0 | No change |
-   | ![rising](images/eq_uparrow.png) | 0 | 0 | 1 | 1 | No change |
-   | ![rising](images/eq_uparrow.png) | 0 | 1 | 0 | 0 | Reset |
-   | ![rising](images/eq_uparrow.png) | 0 | 1 | 1 | 0 | Reset |
-   | ![rising](images/eq_uparrow.png) | 1 | 0 | 0 | 1 | Set |
-   | ![rising](images/eq_uparrow.png) | 1 | 0 | 1 | 1 | Set |
-   | ![rising](images/eq_uparrow.png) | 1 | 1 | 0 | 1 | Toggle |
-   | ![rising](images/eq_uparrow.png) | 1 | 1 | 1 | 0 | Toggle |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645727-07247d4f-9a00-4546-9b58-6b9d5180dff6.png"> | 0 | 0 | 0 | 0 | No change |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645749-db70f0d6-183f-4238-a449-ea4211ad7f85.png"> | 0 | 0 | 1 | 1 | No change |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645772-ffa3e2ac-b81a-48de-b342-7524ec25bd2c.png"> | 0 | 1 | 0 | 0 | Reset |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645811-67a77149-7195-4e07-a6d8-e91090eb48ce.png"> | 0 | 1 | 1 | 0 | Reset |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645826-d10d29b5-04aa-4713-b0d3-101726a6b5f0.png"> | 1 | 0 | 0 | 1 | Set |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645835-0d980e51-a9f8-4470-a7f2-e1d23d85dda1.png"> | 1 | 0 | 1 | 1 | Set |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645845-da4b85be-cafc-4b6d-ad06-0f95d9103235.png"> | 1 | 1 | 0 | 1 | Toggle |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645861-821e7944-7297-4ba9-ac92-03e4ff3a0ea2.png"> | 1 | 1 | 1 | 0 | Toggle |
 
    | **clk** | **t** | **q(n)** | **q(n+1)** | **Comments** |
    | :-: | :-: | :-: | :-: | :-- |
-   | ![rising](images/eq_uparrow.png) | 0 | 0 | 0 | No change |
-   | ![rising](images/eq_uparrow.png) | 0 | 1 | 1 | No change |
-   | ![rising](images/eq_uparrow.png) | 1 | 0 | 1 | Toggle |
-   | ![rising](images/eq_uparrow.png) | 1 | 1 | 0 | Toggle |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645869-d9a741cf-a59f-494d-8ed0-41fc9933d372.png"> | 0 | 0 | 0 | No change |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645893-be205991-048e-453f-a971-5ef8ca0a1b37.png"> | 0 | 1 | 1 | No change |
+   | <img width="42" alt="image" src="https://user-images.githubusercontent.com/99393884/157645904-d651e3ce-ea5b-440d-a101-8c0ddaaf7d3d.png"> | 1 | 0 | 1 | Toggle |
+   | ![Uploading image.png…]() | 1 | 1 | 0 | Toggle |
 
 <!--
 Dokreslit průběhy pro D-latch a D-type FF.
