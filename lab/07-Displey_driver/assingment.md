@@ -48,10 +48,10 @@
 
 2. Screenshot with simulated time waveforms. Test reset as well. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-  ![image](https://user-images.githubusercontent.com/99393884/159924938-958e903f-1b4e-4985-9917-ff369a7fe921.png)
+  <img width="990" alt="image" src="https://user-images.githubusercontent.com/99393884/160865582-f259d1f9-b4c4-47c5-8ac4-d1fa4e4762ed.png">
 
 ### Eight-digit driver
 
 1. Image of the 8-digit driver's block schematic. The image can be drawn on a computer or by hand. Always name all inputs, outputs, components and internal signals!
 
-   ![your figure]()
+   ![Obrázek 2](https://user-images.githubusercontent.com/99393884/160865213-44c9c411-9388-40d5-934e-3d1ffe46d3de.jpeg)
