@@ -14,7 +14,7 @@ Alt-H1
 Alt-H2
 ------
 
-(https://www.google.com)
+https://www.google.com
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
